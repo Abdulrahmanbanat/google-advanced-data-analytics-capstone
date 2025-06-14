@@ -72,11 +72,11 @@ Performed Exploratory Data Analysis (EDA) to discover key patterns:
 - Tuned using **GridSearchCV**
 
 ### Performance Metrics
-- **Accuracy:** ~98%  
-- **Precision:** ~96%  
-- **Recall:** ~93%  
-- **F1-score:** ~94%  
-- **AUC:** ~96%
+- **Accuracy:** 98%  
+- **Precision:** 96%  
+- **Recall:** 93%  
+- **F1-score:** 94%  
+- **AUC:** 96%
 
 ### Insights
 - Key factors: satisfaction level, number of projects, evaluation score
@@ -89,19 +89,12 @@ Performed Exploratory Data Analysis (EDA) to discover key patterns:
 ### Summary
 The model successfully identifies employees at risk of leaving with high precision and recall. It confirms that satisfaction and workload are major predictors.
 
-### Recommendations
-- Introduce flexible work hours and mental health programs  
-- Reduce overloading employees with too many projects  
-- Provide training and support to improve performance  
-- Use the model continuously to monitor employee risk levels
+## Next Steps & Recommendations
 
----
+Moving forward, we should enhance the model by incorporating more detailed data such as contract types and salary breakdowns to gain a more comprehensive understanding. Exploring other machine learning algorithms and fine-tuning model parameters may also improve prediction accuracy. It is important to keep the model regularly updated with new data and consistently review its fairness to ensure ethical and effective use.
 
-## 🔄 Next Steps
+From a business perspective, the company should consider capping the number of projects assigned to each employee to prevent burnout and investigate why employees with around four years of tenure show low satisfaction, potentially offering promotions or additional support. Additionally, the company should either reward employees who work overtime or adjust expectations to avoid requiring excessive working hours. Clear communication of overtime pay policies and workload expectations is essential. Furthermore, holding company-wide and team-level discussions can help identify and improve workplace culture. Finally, the performance evaluation system should be reviewed to ensure fair recognition that appropriately reflects employees’ efforts, avoiding bias toward those who work excessive hours.
 
-- Add more features (e.g., salary breakdown, contract type)  
-- Automate retraining with new data  
-- Ensure fairness and avoid bias in predictions
 
 ---
 
