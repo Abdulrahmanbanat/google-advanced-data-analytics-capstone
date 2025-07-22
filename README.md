@@ -56,7 +56,7 @@ Analyze employee data and build a predictive model that classifies whether an em
 
 ---
 
-## 📊 Analyze
+##  Analyze
 
 Performed Exploratory Data Analysis (EDA) to discover key patterns:
 - Low satisfaction and high workload linked to attrition
