@@ -1,16 +1,16 @@
-# 💼 Employee Attrition Prediction – Capstone Project
+#  Employee Attrition Prediction – Capstone Project
 
 This case study showcases the skills I’ve gained from the **Google Advanced Data Analytics Certificate**. I applied these skills to complete the tasks of a data analyst by building a machine learning model to predict which employees are likely to leave a company. The goal is to help HR teams take proactive action and improve employee retention.
 
 ---
 
-## 🧠 Scenario
+##  Scenario
 
 A consulting firm is experiencing high employee turnover. The HR department wants to understand what factors influence attrition and predict which employees are at risk of leaving. By analyzing internal HR data and building predictive models, the goal is to identify trends and take steps to reduce voluntary turnover.
 
 ---
 
-## 🏢 About the Company
+##  About the Company
 
 The company operates in a fast-paced environment with multiple departments and employees at various performance and satisfaction levels. The HR team provided anonymized employee data, including:
 
@@ -25,7 +25,7 @@ HR wants to understand the drivers of attrition and apply machine learning to su
 
 ---
 
-## 📌 Ask
+##  Ask
 
 ### Business Task
 Analyze employee data and build a predictive model that classifies whether an employee will leave. Use the results to deliver actionable recommendations to reduce attrition.
@@ -37,7 +37,7 @@ Analyze employee data and build a predictive model that classifies whether an em
 
 ---
 
-## 🧹 Prepare & Process
+##  Prepare & Process
 
 ### Data Source
 - Internal HR dataset (CSV format)
@@ -65,7 +65,7 @@ Performed Exploratory Data Analysis (EDA) to discover key patterns:
 
 ---
 
-## 🤖 Construct – Model Building
+##  Construct – Model Building
 
 ### Algorithm
 - **Random Forest Classifier**  
