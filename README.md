@@ -1,4 +1,4 @@
-#  Employee Attrition Prediction – Capstone Project
+#  Employee Attrition Prediction
 
 This case study showcases the skills I’ve gained from the **Google Advanced Data Analytics Certificate**. I applied these skills to complete the tasks of a data analyst by building a machine learning model to predict which employees are likely to leave a company. The goal is to help HR teams take proactive action and improve employee retention.
 
